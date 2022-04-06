@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhesh15
 - 👀 I’m interested in Frontend Devolopment
-- 🌱 I’m currently working as Software Engineer in a Startup Company, Banglore
+- 🌱 Currently working as Software Engineer in a Startup Company, Banglore
 - 📫 How to reach me sudheshholla15@gmail.com 
 
 <!---
