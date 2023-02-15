@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhesh15
-- 👀 I’m interested in Frontend Devolopment
-- 🌱 Currently working as Software Engineer in a Startup Company, Banglore
+- 👀 I’m interested in Full Stack Development
+- 🌱 Currently working as Software Engineer
 - 📫 How to reach me sudheshholla15@gmail.com 
 - https://sudhesh15.github.io/LinkTree-Clone
 
