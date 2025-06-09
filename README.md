@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhesh15
-- 👀 I’m interested in Full Stack Development
-- 🌱 Currently working as Software Engineer
+- 👀 I’m a Full Stack Developer
+- 🌱 Currently working as Senior Software Engineer
 - 📫 How to reach me sudheshholla15@gmail.com 
 - https://www.sudheshholla.in/
 
