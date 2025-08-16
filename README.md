@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhesh15
-- 👀 I’m a Full Stack Developer
+- 👀 I’m a Full Stack Developer & making my hands dirt with GenAI right now
 - 🌱 Currently working as Senior Software Engineer
 - 📫 How to reach me sudheshholla15@gmail.com 
 - https://www.sudheshholla.in/
